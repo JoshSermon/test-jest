@@ -4,4 +4,4 @@ function cloneArray(array) {
 
 module.exports = cloneArray
 
-cloneArray - minvdshinivds
+cloneArray = module
