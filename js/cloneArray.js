@@ -1,3 +1,5 @@
+const { getElementError } = require("@testing-library/react")
+
 function cloneArray(array) {
     return [...array]
 }
@@ -5,3 +7,5 @@ function cloneArray(array) {
 module.exports = cloneArray
 
 cloneArray = module
+
+getElementError
