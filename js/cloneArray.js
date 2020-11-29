@@ -7,5 +7,3 @@ function cloneArray(array) {
 module.exports = cloneArray
 
 cloneArray = module
-
-getElementError
