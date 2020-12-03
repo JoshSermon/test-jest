@@ -6,4 +6,4 @@ test('properly clones array', () => {
     expect(cloneArray(array)).not.toBe(array)
 })
 
-const cloneArray.toEqual(array_)
+const cloneArray.toEqual(array_) to accept it all.
